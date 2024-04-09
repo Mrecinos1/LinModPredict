@@ -1,0 +1,11 @@
+---
+title: "Linmod_w_prediction"
+author: "Michael Recinos"
+output: html_document
+date: "2024-04-09"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
